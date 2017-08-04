@@ -50,9 +50,6 @@ class Test {
     $this->execute("10\n 30 27 17 42 29 12 14 41 42 42", 6, "small land");
     $this->execute("20\n 12 82 60 90 21 54 89 20 12 48 30 27 17 42 29 12 14 41 42 42", 17, "medium land");
     $this->execute_from_file("test_files/test_large", 99985, "max size");
-    $this->execute_from_file("test_files/test_large", 99985, "max size");
-    $this->execute_from_file("test_files/test_large", 99985, "max size");
-    $this->execute_from_file("test_files/test_large", 99985, "max size");
 
 
 
